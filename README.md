@@ -35,8 +35,7 @@ Un sistema de chat cliente-servidor realizado en Java SE, orientado a la prácti
 ## ⚡ **¿Cómo se ejecuta?**
 
 1. **Clona el repositorio:**
- 
-   https://github.com/jonatanTajada/chat-client-servidor-java.git
+https://github.com/jonatanTajada/chat-client-servidor-java.git
 
 2. **Abre el proyecto en Eclipse (o cualquier IDE Java).**
 
@@ -97,12 +96,9 @@ Utiliza, mejora y comparte libremente (¡citando al autor si lo publicas!).
 Este proyecto es ideal para entender los fundamentos de la comunicación en red con Java, el uso de hilos, la gestión de usuarios y la construcción de GUIs modernas.
 ¿Quieres más? Mira otros proyectos de chat UDP/TCP en este repo.
 
----
 
-### **Sugerencias:**
-- Cambia las rutas de las imágenes por las tuyas si las subes.
-- Puedes añadir gifs o más capturas para hacerlo más visual.
-- Actualiza enlaces de GitHub, LinkedIn y demás con los tuyos.
+
+
 
 
 
