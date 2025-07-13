@@ -1,0 +1,24 @@
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de Word y PDF
+*.docx
+
+
+# Archivos de mapas mentales
+*.html
+
+# Archivos temporales y de sistema
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Directorios de compilación
+bin/
+
+# Ignorar ficheros de logs, si los generas
+*.log
+
+# Ignorar los .jar
+# lib/*.jar
