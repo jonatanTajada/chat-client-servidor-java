@@ -36,45 +36,36 @@ Un sistema de chat cliente-servidor realizado en Java SE, orientado a la prácti
 
 1. **Clona el repositorio:**
  
-   git clone https://github.com/tuusuario/Chat-Java-Swing.git
-   cd Chat-Java-Swing
+   https://github.com/jonatanTajada/chat-client-servidor-java.git
 
-Abre el proyecto en Eclipse (o VS Code, IntelliJ…)
+2. **Abre el proyecto en Eclipse (o cualquier IDE Java).**
 
-Ejecuta el servidor
-Abre src/servidor/ServidorChatGUI.java y ejecuta el método main.
+3. **Ejecuta el servidor:**
+- Ve a `src/servidor/ServidorChatGUI.java` y ejecuta el método `main`.
 
-Ejecuta el/los cliente(s)
-Abre src/cliente/ClienteChat.java y ejecuta el método main.
-Repite para abrir varias ventanas (puedes simular varios usuarios en tu PC).
+4. **Ejecuta uno o varios clientes:**
+- Ve a `src/cliente/ClienteChat.java` y ejecuta el método `main`.  
+- Repite para simular varios usuarios en tu PC
+.
+5. **¡Listo!**
+- El servidor escucha en el puerto **5003**.
+- Los clientes deben poner la IP y el puerto (usa `127.0.0.1` si todo está en tu PC).
+- Escribe tu nombre de usuario y… ¡a chatear!
 
-¡Listo!
 
-El servidor escucha en el puerto 5003
+## ✨ Características principales
 
-Los clientes introducen la IP y puerto (127.0.0.1 si todo está en tu PC)
+- 👥 **Chat multiusuario**: mensajes públicos y privados.
+- 🔄 **Re-conexión automática** de chats privados.
+- 🎨 **Interfaz moderna y personalizable** (claro/oscuro con FlatLaf).
+- 🧑‍💻 **Lista de usuarios en tiempo real**.
+- 📜 **Log de actividad** en el servidor.
+- 💻 **Multiplataforma** (funciona en cualquier SO con Java).
+- 📦 **Código estructurado y comentado**.
 
-Escribe tu nombre de usuario y ¡empieza a chatear!
 
-✨ Características principales
-Chat multiusuario, mensajes públicos y privados
+## 📂 Estructura del proyecto
 
-Re-conexión automática de chats privados
-
-Interfaz moderna y personalizable
-
-Lista de usuarios en tiempo real
-
-Log de actividad en el servidor
-
-Multiplataforma (funciona en cualquier SO con Java)
-
-Código estructurado y comentado
-
-📂 Estructura del proyecto
-bash
-Copiar
-Editar
 /src
   /cliente
     ClienteChat.java
@@ -89,24 +80,22 @@ Editar
   flatlaf-3.5.4.jar
   flatlaf-extras-3.5.4.jar
 ...
-🧑‍💻 Autor
+
+## 🧑‍💻 Autor
 Jonatan Tajada
 
 2º DAM – 2025
 
-LinkedIn | GitHub
+- [LinkedIn](https://www.linkedin.com/in/jonatantr)
+- [GitHub](https://github.com/jonatanTajada)
 
-📖 Licencia
+## 📖 Licencia
 MIT License.
 Utiliza, mejora y comparte libremente (¡citando al autor si lo publicas!).
 
-💡 Notas finales
+## 💡 Notas finales
 Este proyecto es ideal para entender los fundamentos de la comunicación en red con Java, el uso de hilos, la gestión de usuarios y la construcción de GUIs modernas.
 ¿Quieres más? Mira otros proyectos de chat UDP/TCP en este repo.
-
-yaml
-Copiar
-Editar
 
 ---
 
@@ -115,13 +104,5 @@ Editar
 - Puedes añadir gifs o más capturas para hacerlo más visual.
 - Actualiza enlaces de GitHub, LinkedIn y demás con los tuyos.
 
-¿Quieres que adapte alguna sección, lo ponga aún más simple o más técnico? ¿O lo traducimos al inglés si lo necesitas para GitHub?
 
 
-
-
-
-
-
-
-Preguntar a ChatGPT
