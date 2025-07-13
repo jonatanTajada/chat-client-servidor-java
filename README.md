@@ -36,8 +36,8 @@ Un sistema de chat cliente-servidor realizado en Java SE, orientado a la prácti
 
 1. **Clona el repositorio:**
  
-   git clone https://github.com/tuusuario/Chat-Java-Swing.git
-   cd Chat-Java-Swing
+   [git clone https://github.com/tuusuario/Chat-Java-Swing.git
+   cd Chat-Java-Swing](https://github.com/jonatanTajada/chat-client-servidor-java.git)
 
 Abre el proyecto en Eclipse (o VS Code, IntelliJ…)
 
